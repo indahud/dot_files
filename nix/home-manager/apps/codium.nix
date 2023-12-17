@@ -37,6 +37,7 @@
             search = {
                 location = "panel";
             };
+            "workbench.sideBar.location" = "right";
         };
 	};
 }
