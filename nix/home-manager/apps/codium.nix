@@ -30,6 +30,7 @@
                     highlightModifiedTabs = true;
                 };
                 tree.indent = 20;
+                startupEditor= "none";
             };
             exclude = {
                 "**/node_modules" = true;
