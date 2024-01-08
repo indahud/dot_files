@@ -6,5 +6,6 @@ services:
       - '27017:27017'
     volumes:
       - mongodata:/data/db
+    restart: always  
 volumes:
   mongodata:
